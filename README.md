@@ -10,8 +10,8 @@ You can access the following applications after the setup:
 
 
 ```
-git clone  https://github.com/luiswitz/adianti-framework-docker.git my_new_project
-cd my_new_project
+git clone  https://github.com/fancydeveloper/Adianti-Framewors.git
+cd adianti-frameworks
 ```
 Setup your database credentials in `docker-compose.yml` and `phinx.yml` and run the containers
 ```
